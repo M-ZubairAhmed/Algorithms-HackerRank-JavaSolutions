@@ -1,14 +1,6 @@
 # Solutions to Java Challenges - HackerRank
 My attempt to solve Hackerrank's [Java track](https://www.hackerrank.com/domains/java/) problems.
-
-## Current Status
-
-[@mzubairahmed](https://www.hackerrank.com/mzubairahmed)
-
-Points  : 503
-
-Rank    : 4376    
-
+    
 ### Subdomains
 List of subdomains included in the track:
 - [X] Java Introduction
@@ -29,3 +21,12 @@ List of subdomains included in the track:
 ### Online Judge
 
 [HackerRank](https://www.hackerrank.com)
+
+
+## Current Status
+
+[@mzubairahmed](https://www.hackerrank.com/mzubairahmed)
+
+Points  : 503
+
+Rank    : 4376
